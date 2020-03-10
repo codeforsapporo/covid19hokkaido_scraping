@@ -1,5 +1,5 @@
 {
-    "last_update": "2020-03-10T20:02:58.406644+09:00",
+    "last_update": "2020-03-10T20:16:52.254265+09:00",
     "data": [
         {
             "no": 1,
@@ -980,7 +980,7 @@
             "sex": "女",
             "place": "札幌市 ",
             "other_patient": "No.98",
-            "contact_person": "現在調査中 "
+            "contact_person": "札幌市公表中 "
         },
         {
             "no": 110,
@@ -989,7 +989,7 @@
             "sex": "男",
             "place": "札幌市 ",
             "other_patient": "No.79",
-            "contact_person": "現在調査中 "
+            "contact_person": "札幌市公表中"
         },
         {
             "no": 111,
@@ -998,7 +998,7 @@
             "sex": "男",
             "place": "札幌市 ",
             "other_patient": "No.78 No.79",
-            "contact_person": "現在調査中 "
+            "contact_person": "札幌市公表中 "
         }
     ]
 }
