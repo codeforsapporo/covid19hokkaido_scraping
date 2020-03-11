@@ -1,5 +1,5 @@
 {
-    "last_update": "2020-03-11T15:46:47.504198+09:00",
+    "last_update": "2020-03-11T16:03:18.198092+09:00",
     "data": [
         {
             "no": 1,
@@ -745,7 +745,7 @@
             "age": "60代 ",
             "sex": "男",
             "place": "札幌市",
-            "other_patient": "No.96",
+            "other_patient": "No.96 No.115",
             "contact_person": "札幌市公表中"
         },
         {
@@ -988,7 +988,7 @@
             "age": "60代 ",
             "sex": "男",
             "place": "札幌市 ",
-            "other_patient": "No.79",
+            "other_patient": "No.79 No.112",
             "contact_person": "札幌市公表中"
         },
         {
@@ -999,6 +999,69 @@
             "place": "札幌市 ",
             "other_patient": "No.78 No.79",
             "contact_person": "札幌市公表中 "
+        },
+        {
+            "no": 112,
+            "date": "2020-03-11T00:00:00+09:00",
+            "age": "50代 ",
+            "sex": "女",
+            "place": "札幌市 ",
+            "other_patient": "No.110",
+            "contact_person": "札幌市公表中 "
+        },
+        {
+            "no": 113,
+            "date": "2020-03-11T00:00:00+09:00",
+            "age": "70代 ",
+            "sex": "女",
+            "place": "札幌市 ",
+            "other_patient": "札幌市公表中",
+            "contact_person": "札幌市公表中 "
+        },
+        {
+            "no": 114,
+            "date": "2020-03-11T00:00:00+09:00",
+            "age": "30代 ",
+            "sex": "男",
+            "place": "札幌市 ",
+            "other_patient": "札幌市公表中",
+            "contact_person": "札幌市公表中 "
+        },
+        {
+            "no": 115,
+            "date": "2020-03-11T00:00:00+09:00",
+            "age": "50代 ",
+            "sex": "女",
+            "place": "札幌市 ",
+            "other_patient": "No.83",
+            "contact_person": "札幌市公表中 "
+        },
+        {
+            "no": 116,
+            "date": "2020-03-11T00:00:00+09:00",
+            "age": "70代 ",
+            "sex": "女",
+            "place": "空知総合振興局管内 ",
+            "other_patient": "現在調査中",
+            "contact_person": "現在調査中"
+        },
+        {
+            "no": 117,
+            "date": "2020-03-11T00:00:00+09:00",
+            "age": "60代 ",
+            "sex": "男",
+            "place": "オホーツク総合振興局管内 ",
+            "other_patient": "現在調査中",
+            "contact_person": "現在調査中 "
+        },
+        {
+            "no": 118,
+            "date": "2020-03-11T00:00:00+09:00",
+            "age": "60代 ",
+            "sex": "女",
+            "place": "上川総合振興局管内 （旭川市）",
+            "other_patient": "－",
+            "contact_person": "－"
         }
     ]
 }
