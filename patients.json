@@ -1,5 +1,5 @@
 {
-    "last_update": "2020-03-11T13:47:03.415484+09:00",
+    "last_update": "2020-03-11T14:03:04.439988+09:00",
     "data": [
         {
             "no": 1,
@@ -107,7 +107,7 @@
             "sex": "女",
             "place": "渡島総合振興局管内（函館市） ",
             "other_patient": "No.4",
-            "contact_person": "現在調査中 "
+            "contact_person": "濃厚接触者を特定し健康観察終了 "
         },
         {
             "no": 13,
@@ -115,8 +115,8 @@
             "age": "60代 ",
             "sex": "男",
             "place": "渡島総合振興局管内（函館市） ",
-            "other_patient": "現在調査中 ",
-            "contact_person": "現在調査中 "
+            "other_patient": "なし ",
+            "contact_person": "濃厚接触者を特定し健康観察終了 "
         },
         {
             "no": 14,
@@ -340,8 +340,8 @@
             "age": "高齢者 ",
             "sex": "非公表",
             "place": "渡島総合振興局管内（函館市）2/25死亡 ",
-            "other_patient": "現在調査中 ",
-            "contact_person": "現在調査中 "
+            "other_patient": "なし ",
+            "contact_person": "濃厚接触者を特定し健康観察終了 "
         },
         {
             "no": 39,
