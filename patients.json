@@ -1,5 +1,5 @@
 {
-    "last_update": "2020-03-11T18:03:28.671784+09:00",
+    "last_update": "2020-03-11T18:16:59.782669+09:00",
     "data": [
         {
             "no": 1,
@@ -727,7 +727,7 @@
             "age": "60代 ",
             "sex": "男",
             "place": "上川総合振興局管内（旭川市）",
-            "other_patient": "旭川市公表中",
+            "other_patient": "No.118",
             "contact_person": "旭川市公表中"
         },
         {
@@ -781,7 +781,7 @@
             "age": "70代 ",
             "sex": "男",
             "place": "石狩振興局管内（北広島市）",
-            "other_patient": "現在調査中",
+            "other_patient": "No.116",
             "contact_person": "濃厚接触者を特定し健康観察中"
         },
         {
@@ -1042,7 +1042,7 @@
             "age": "70代 ",
             "sex": "女",
             "place": "空知総合振興局管内 ",
-            "other_patient": "現在調査中",
+            "other_patient": "No.87",
             "contact_person": "現在調査中"
         },
         {
@@ -1060,8 +1060,8 @@
             "age": "60代 ",
             "sex": "女",
             "place": "上川総合振興局管内 （旭川市）",
-            "other_patient": "－",
-            "contact_person": "－"
+            "other_patient": "No.81",
+            "contact_person": "旭川市公表中"
         }
     ]
 }
