@@ -6,6 +6,10 @@ import os
 import urllib.request
 import jsonschema
 
+# ignore ssl verify
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
+
 #日本標準時
 JST = datetime.timezone(datetime.timedelta(hours=+9), 'JST')
 
